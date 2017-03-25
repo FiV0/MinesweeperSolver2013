@@ -1,9 +1,9 @@
-## MINESWEEPER-SOLVER ##
+# MINESWEEPER-SOLVER #
 	This progarm is used to solve the original Microsoft minesweeper
 	game on linux machines. For more infos please refer to
 	<http://www.minesweeper.info/wiki/Windows_Minesweeper> .
 
-# LICENCE: #
+### LICENCE: ###
 	This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
@@ -18,7 +18,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-# INSTALLATION: #
+### INSTALLATION: ###
 	For this program to compile correctly you need to have the
 	following libraries installed:
 
@@ -31,7 +31,7 @@
 	version of xdotool (2.20101014.3063 as of 26.5.2013), otherwise
 	there might be errors while compiling.
 
-# VERSIONS: #
+### VERSIONS: ###
 
 	The makefile lets you choose between 4 versions:
 
@@ -63,5 +63,5 @@
 	Important: So that the last 2 versions work correctly you need to make
 		sure that the minefield is never concealed by any other window.
 
-# AUTHORS: #
+### AUTHORS: ###
 	Völkel,Finn
